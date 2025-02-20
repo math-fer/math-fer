@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I learned basic statistics and actually studying SQL to become a data analyst
 <!--
 **math-fer/math-fer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
